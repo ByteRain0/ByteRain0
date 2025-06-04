@@ -1,5 +1,5 @@
 # 💫 About Me:
-.NET Technical Lead & Architect
+.NET Engineer
 
 
 ## 🌐 Socials:
